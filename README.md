@@ -1,1 +1,2 @@
-# Kruskal-s-algorithm-from-scratch-in-python
+# Kruskals algorithm from scratch in python
+
